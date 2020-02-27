@@ -5,10 +5,13 @@ e Tabelas no SQL Server:
 
 ▶️ https://youtu.be/s6HWOC0fG6M
 
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 Roteiro deste vídeo: 
 
+
 ⏩ Criação de Banco de Dados e Tabelas no SQL Server
+
 ▶️ https://www.webmundi.com/banco-de-dados/ms-sql-server/criacao-de-banco-de-dados-e-tabelas-no-sql-server/
 
 🎥 Playlist SQL Server | Canal Web Mundi.com
